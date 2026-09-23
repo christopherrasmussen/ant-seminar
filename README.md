@@ -9,19 +9,19 @@ to discuss the possibility.
 
 ## Fall 2027 Schedule
 
-| Date   | Speaker                                                                        | Title |
-|--------|--------------------------------------------------------------------------------|-------|
-| Sep 25 |                                                                                |       |
-| Oct 2  |                                                                                |       |
-| Oct 9  | [Suzanne O'Hara](https://sites.google.com/view/suzanneohara)                   | TBA   |
-| Oct 16 |                                                                                |       |
-| Oct 23 |                                                                                |       |
-| Oct 30 |                                                                                |       |
-| Nov 6  | [Joe Macula](https://sites.google.com/view/joe-macula), Wake Forest University | TBA   |
-| Nov 13 |                                                                                |       |
-| Nov 20 |                                                                                |       |
-| --     | *Thanksgiving Break*                                                           |       |
-| Dec 4  |                                                                                |       |
-| Dec 11 |                                                                                |       |
+| Date   | Speaker                                                                           | Title |
+|--------|-----------------------------------------------------------------------------------|-------|
+| Sep 25 |                                                                                   |       |
+| Oct 2  |                                                                                   |       |
+| Oct 9  | [Suzanne O'Hara](https://sites.google.com/view/suzanneohara), Wesleyan University | TBA   |
+| Oct 16 |                                                                                   |       |
+| Oct 23 |                                                                                   |       |
+| Oct 30 |                                                                                   |       |
+| Nov 6  | [Joe Macula](https://sites.google.com/view/joe-macula), Wake Forest University    | TBA   |
+| Nov 13 |                                                                                   |       |
+| Nov 20 |                                                                                   |       |
+| --     | *Thanksgiving Break*                                                              |       |
+| Dec 4  |                                                                                   |       |
+| Dec 11 |                                                                                   |       |
 
 ###### Last edited 2026 Sep 23
