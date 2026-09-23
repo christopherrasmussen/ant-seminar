@@ -1,7 +1,11 @@
 # Wesleyan University Algebra/Number Theory Seminar
 
-The seminar typically meets on Fridays at 1:20 p.m. in Exley 618. Researchers interested in speaking,
-especially in the Northeast, should feel free to [contact us about scheduling a talk](mailto:crasmussen@wesleyan.edu).
+Focused on the areas of Algebra and Number Theory, broadly defined,
+this seminar hosts hour-long talks on recent developments. The seminar
+typically meets in-person on Fridays at 1:20 p.m. Individuals
+interested in speaking on recent research, especially in the
+Northeast, should feel free to [contact us about scheduling a
+talk](mailto:crasmussen@wesleyan.edu).
 
 ## Fall 2027 Schedule
 
