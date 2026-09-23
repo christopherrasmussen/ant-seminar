@@ -1,4 +1,8 @@
-# ant-seminar
-Wesleyan Algebra/Number Theory Seminar
+# Wesleyan University Algebra/Number Theory Seminar
 
-# -- edited on [2026-Sep-23]
+### Exley 618, 1:20 p.m.
+
+## Fall 2027 Schedule
+
+ - Nov 6, Joe Macula, Wake Forest University, TBA
+
