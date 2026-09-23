@@ -13,7 +13,7 @@ to discuss the possibility.
 |--------|--------------------------------------------------------------------------------|-------|
 | Sep 25 |                                                                                |       |
 | Oct 2  |                                                                                |       |
-| Oct 9  |                                                                                |       |
+| Oct 9  | [Suzanne O'Hara](https://sites.google.com/view/suzanneohara)                   | TBA   |
 | Oct 16 |                                                                                |       |
 | Oct 23 |                                                                                |       |
 | Oct 30 |                                                                                |       |
