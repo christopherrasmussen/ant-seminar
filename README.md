@@ -5,6 +5,19 @@ especially in the Northeast, should feel free to [contact us about scheduling a 
 
 ## Fall 2027 Schedule
 
- - Nov 6, Joe Macula, Wake Forest University, TBA
+| Date   | Speaker                                                                        | Title |
+|--------|--------------------------------------------------------------------------------|-------|
+| Sep 25 |                                                                                |       |
+| Oct 2  |                                                                                |       |
+| Oct 9  |                                                                                |       |
+| Oct 16 |                                                                                |       |
+| Oct 23 |                                                                                |       |
+| Oct 30 |                                                                                |       |
+| Nov 6  | [Joe Macula](https://sites.google.com/view/joe-macula), Wake Forest University | TBA   |
+| Nov 13 |                                                                                |       |
+| Nov 20 |                                                                                |       |
+| --     | *Thanksgiving Break*                                                           |       |
+| Dec 4  |                                                                                |       |
+| Dec 11 |                                                                                |       |
 
 ###### Last edited 2026 Sep 23
