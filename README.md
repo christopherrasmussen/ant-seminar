@@ -11,7 +11,7 @@ to discuss the possibility.
 
 | Date   | Speaker                                                                           | Title |
 |--------|-----------------------------------------------------------------------------------|-------|
-| Sep 25 |                                                                                   |       |
+| Sep 25 | --                                                                                | --    |
 | Oct 2  |                                                                                   |       |
 | Oct 9  | [Haochen Wu](https://haochenwumath.github.io), Trinity College                    | TBA   |
 | Oct 16 | [Suzanne O'Hara](https://sites.google.com/view/suzanneohara), Wesleyan University | TBA   |
