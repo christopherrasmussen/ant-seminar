@@ -13,8 +13,8 @@ to discuss the possibility.
 |--------|-----------------------------------------------------------------------------------|-------|
 | Sep 25 |                                                                                   |       |
 | Oct 2  |                                                                                   |       |
-| Oct 9  | [Suzanne O'Hara](https://sites.google.com/view/suzanneohara), Wesleyan University | TBA   |
-| Oct 16 |                                                                                   |       |
+| Oct 9  | [Haochen Wu](https://haochenwumath.github.io), Trinity College                    | TBA   |
+| Oct 16 | [Suzanne O'Hara](https://sites.google.com/view/suzanneohara), Wesleyan University | TBA   |
 | Oct 23 |                                                                                   |       |
 | Oct 30 |                                                                                   |       |
 | Nov 6  | [Joe Macula](https://sites.google.com/view/joe-macula), Wake Forest University    | TBA   |
