@@ -1,0 +1,56 @@
+/* ant-seminar.css — minimal stylesheet for the org-exported seminar site */
+
+/* ---- Colors and fonts: change these first ---- */
+:root {
+    --bg:     #fbfaf7;   /* page background */
+    --text:   #1f2933;   /* body text */
+    --link:   #33aaff;   /* links */
+    --border: #d6d3c9;   /* table borders */
+    --th-bg:  #e4e2da;   /* table header background */
+    --font:   -apple-system, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* ---- Page layout ---- */
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: var(--font);
+    font-size: 1.25rem;
+    line-height: 1.6;
+    max-width: 65rem;    /* widest the text column gets */
+    margin: 0 auto;      /* center the column */
+    padding: 0 1rem;     /* keep text off the window edges */
+}
+
+/* ---- Headings ----
+   Sized in rem (relative to the browser default, 16px), so they
+   don't grow when the body font-size above changes. */
+h1 { font-size: 2.5rem; line-height: 1.2; }
+h2 { font-size: 1.75rem; line-height: 1.2; }
+h3 { font-size: 1.4rem; line-height: 1.2; }
+
+/* ---- Links ---- */
+a, a:visited {
+    color: var(--link);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* ---- Tables ---- */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid var(--border);  /* overrides org's frame="hsides" */
+    margin: 1.5rem 0;
+}
+
+th, td {
+    border: 1px solid var(--border);
+    padding: 0.5rem;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background-color: var(--th-bg);
+}

@@ -1,0 +1,29 @@
+#+TITLE: Wesleyan University Algebra/Number Theory Seminar
+
+Focused on the areas of Algebra and Number Theory, broadly defined,
+this seminar hosts hour-long talks on recent developments. The seminar
+typically meets in-person on Fridays at 1:20 p.m. Individuals
+interested in speaking on recent research, especially in the
+Northeast, should feel free to [[mailto:crasmussen@wesleyan.edu][contact us]]
+to discuss the possibility.
+
+*** Fall 2027 Schedule
+
+|--------+-------------------------------------+-------|
+| Date   | Speaker                             | Title |
+|--------+-------------------------------------+-------|
+| Sep 25 | --                                  | --    |
+| Oct 2  |                                     |       |
+| Oct 9  | [[https://haochenwumath.github.io][Haochen Wu]], Trinity College         | TBA   |
+| Oct 16 | [[https://sites.google.com/view/suzanneohara][Suzanne O'Hara]], Wesleyan University | TBA   |
+| Oct 23 |                                     |       |
+| Oct 30 |                                     |       |
+| Nov 6  | [[https://sites.google.com/view/joe-macula][Joe Macula]], Wake Forest University  | TBA   |
+| Nov 13 |                                     |       |
+| Nov 20 |                                     |       |
+| --     | *Thanksgiving Break*                |       |
+| Dec 4  |                                     |       |
+| Dec 11 |                                     |       |
+|--------+-------------------------------------+-------|
+
+***** Last edited 2026 Sep 28
