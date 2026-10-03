@@ -9,21 +9,40 @@ to discuss the possibility.
 
 *** Fall 2027 Schedule
 
-|--------+-------------------------------------+-------|
-| Date   | Speaker                             | Title |
-|--------+-------------------------------------+-------|
-| Sep 25 | --                                  | --    |
-| Oct 2  |                                     |       |
-| Oct 9  | [[https://haochenwumath.github.io][Haochen Wu]], Trinity College         | TBA   |
-| Oct 16 | [[https://sites.google.com/view/suzanneohara][Suzanne O'Hara]], Wesleyan University | TBA   |
-| Oct 23 |                                     |       |
-| Oct 30 |                                     |       |
-| Nov 6  | [[https://sites.google.com/view/joe-macula][Joe Macula]], Wake Forest University  | TBA   |
-| Nov 13 |                                     |       |
-| Nov 20 |                                     |       |
-| --     | *Thanksgiving Break*                |       |
-| Dec 4  |                                     |       |
-| Dec 11 |                                     |       |
-|--------+-------------------------------------+-------|
+|--------+-------------------------------------+-----------------------------------------------------------|
+| Date   | Speaker                             | Title (Click for abstract)                                |
+|--------+-------------------------------------+-----------------------------------------------------------|
+| Sep 25 | --                                  | --                                                        |
+| Oct 2  |                                     |                                                           |
+| Oct 9  | [[https://haochenwumath.github.io][Haochen Wu]], Trinity College         | [[#2026-10-09][From Gauss composition to binary orthogonal modular forms]] |
+| Oct 16 | [[https://sites.google.com/view/suzanneohara][Suzanne O'Hara]], Wesleyan University | TBA                                                       |
+| Oct 23 |                                     |                                                           |
+| Oct 30 |                                     |                                                           |
+| Nov 6  | [[https://sites.google.com/view/joe-macula][Joe Macula]], Wake Forest University  | TBA                                                       |
+| Nov 13 |                                     |                                                           |
+| Nov 20 |                                     |                                                           |
+| --     | *Thanksgiving Break*                |                                                           |
+| Dec 4  |                                     |                                                           |
+| Dec 11 |                                     |                                                           |
+|--------+-------------------------------------+-----------------------------------------------------------|
 
-***** Last edited 2026 Sep 28
+
+*** Abstracts
+
+***** /From Gauss composition to binary orthogonal modular forms/
+:PROPERTIES:
+:CUSTOM_ID: 2026-10-09
+:END:
+      [[https://haochenwumath.github.io][Haochen Wu]], Trinity College
+      
+Gauss composition identifies equivalence classes of binary quadratic
+forms with ideal classes in quadratic orders. We revisit it over
+Dedekind domains, showing that it is given by the Clifford and norm
+maps, building on work of Kneser and Wood. We clarify the role of
+orientations and the natural emergence of narrow class groups. As an
+application, we show that binary orthogonal eigenforms correspond to
+Hecke characters. Using theta series, we show the explicit connection
+between Hilbert modular forms and orthogonal modular forms arising
+from positive definite binary lattices over the ring of integers of a
+totally real number field. This is joint work with John Voight.
+

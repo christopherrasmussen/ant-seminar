@@ -2,11 +2,12 @@
 
 /* ---- Colors and fonts: change these first ---- */
 :root {
-    --bg:     #fbfaf7;   /* page background */
-    --text:   #1f2933;   /* body text */
-    --link:   #33aaff;   /* links */
-    --border: #d6d3c9;   /* table borders */
-    --th-bg:  #e4e2da;   /* table header background */
+    --bg:      #f3f1ec;   /* page background */
+    --text:    #1f2933;   /* body text */
+    --link:    #9b1c1c;   /* links */
+    --border:  #a8a294;   /* table borders */
+    --th-bg:   #c9c3b4;   /* table header background */
+    --row-alt: #e8e5dd;   /* every other table row */
     --font:   -apple-system, "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -22,6 +23,14 @@ body {
     padding: 0 1rem;     /* keep text off the window edges */
 }
 
+/* ---- Footer ---- */
+#postamble {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 1rem;
+}
+
 /* ---- Headings ----
    Sized in rem (relative to the browser default, 16px), so they
    don't grow when the body font-size above changes. */
@@ -33,7 +42,7 @@ h3 { font-size: 1.4rem; line-height: 1.2; }
 a, a:visited {
     color: var(--link);
     font-weight: bold;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 /* ---- Tables ---- */
@@ -53,4 +62,8 @@ th, td {
 
 th {
     background-color: var(--th-bg);
+}
+
+tbody tr:nth-child(even) {
+    background-color: var(--row-alt);
 }
