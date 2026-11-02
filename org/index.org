@@ -15,10 +15,10 @@ to discuss the possibility.
 | Sep 25 | --                                  | --                                                        |
 | Oct 2  |                                     |                                                           |
 | Oct 9  | [[https://haochenwumath.github.io][Haochen Wu]], Trinity College         | [[#2026-10-09][From Gauss composition to binary orthogonal modular forms]] |
-| Oct 16 | [[https://sites.google.com/view/suzanneohara][Suzanne O'Hara]], Wesleyan University | [[#2026-10-16][Heavenly elliptic curves over cubic fields]]                                                          |
+| Oct 16 | [[https://sites.google.com/view/suzanneohara][Suzanne O'Hara]], Wesleyan University | [[#2026-10-16][Heavenly elliptic curves over cubic fields]]                |
 | Oct 23 |                                     |                                                           |
 | Oct 30 |                                     |                                                           |
-| Nov 6  | [[https://sites.google.com/view/joe-macula][Joe Macula]], Wake Forest University  | TBA                                                       |
+| Nov 6  | [[https://sites.google.com/view/joe-macula][Joe Macula]], Wake Forest University  | [[#2026-11-06][Sesquilinear pairings and isogeny-based cryptography]]                                                          |
 | Nov 13 |                                     |                                                           |
 | Nov 20 |                                     |                                                           |
 | --     | *Thanksgiving Break*                |                                                           |
@@ -68,3 +68,20 @@ we discuss analogues of their results to the cubic field case and show
 a further classification of heavenly elliptic curves which have a
 “CM-like” trace.
 
+***** /Sesquilinear pairings and isogeny-based cryptography/
+:PROPERTIES:
+:CUSTOM_ID: 2026-11-06
+:END:
+      [[https://sites.google.com/view/joe-macula][Joe Macula]], Wake Forest University
+
+Bilinear pairings on elliptic curves, in particular the Weil and Tate pairings,
+have been used extensively in cryptography in general and in isogeny-based
+cryptography in particular. Following the break of the Supersingular Isogeny
+Diffie Helman (SIDH) protocol, it was shown that the ideas of this attack
+can be leveraged to attack certain instances of protocols based on the class
+group action problem, with pairings serving as a crucial link. In this talk,
+I'll discuss some of the background theory of pairings and introduce the
+sesquilinear pairings of Stange (2026), then give an overview of recent
+work in collaboration with Stange (2024) on further extending the attacks
+on class group action protocols. Along the way, we'll also discuss some
+of the relevant isogeny-based cryptography.
