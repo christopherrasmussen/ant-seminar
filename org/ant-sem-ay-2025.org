@@ -1,0 +1,161 @@
+#+TITLE: Algebra/Number Theory Seminar, 2025–2026
+
+#+INCLUDE: "../includes/past-disclaimer.org"
+
+*** Fall 2025
+
+|--------+-----------------------------------------------------+-----------------------------------------------------------------------------------|
+| Date   | Speaker                                             | Title                                                                             |
+|--------+-----------------------------------------------------+-----------------------------------------------------------------------------------|
+| Sep 26 | [[https://zfan-math.com/][Ze Fan]], Wesleyan University                         | [[#2025-09-26][A Constructive and Stable Cartan-Dieudonné Theorem for Binary Quadratic Forms]]     |
+| Nov 7  | [[https://sarangop1728.github.io/][Santiago Arango-Piñeros]], UMass Amherst              | [[#2025-11-07][Counting primitive integral solutions to generalized Fermat equations]]             |
+| Nov 14 | [[https://www.southernct.edu/directory/sturmanl1][Leah Sturman]], Southern Connecticut State University | [[#2025-11-14][Hypergeometric Decompositions of K3 Surface Pencils]]                               |
+| Dec 12 | Louis Gaudet, UMass Amherst                         | [[#2025-12-12][Counting biquadratic number fields that admit quaternionic or dihedral extensions]] |
+|--------+-----------------------------------------------------+-----------------------------------------------------------------------------------|
+
+*** Spring 2026
+
+|--------+------------------------------------+----------------------------------------------------------------------------------------------------------|
+| Date   | Speaker                            | Title                                                                                                    |
+|--------+------------------------------------+----------------------------------------------------------------------------------------------------------|
+| Feb 6  | [[https://zporat.github.io/][Zachary Porat]], Wesleyan University |                                                                                                          |
+| Feb 27 | [[https://sites.google.com/view/ariel-weiss/][Ariel Weiss]], Trinity College       | [[#2026-02-27][The distribution of 2-Selmer groups in quadratic twist families of elliptic curves]]                       |
+| Mar 6  | [[https://faculty.bard.edu/cullinan/][John Cullinan]], Bard College        | [[#2026-03-06][The group theory of elliptic curves in towers of finite fields]]                                           |
+| Apr 24 | [[https://mathematics.colostate.edu/person/?id=AAF7E91E00F35E3D1E382B1E38985927&sq=t][Will Allen]], Wesleyan University    | [[#2026-04-24][The Uniformization Theorem]] (honors talk)                                                                 |
+| May 1  | [[https://zporat.github.io/][Zachary Porat]], Wesleyan University | [[#2026-05-01][On the Cuspidal Cohomology of Congruence Subgroups of \(\mathrm{SL}(3,\mathbb{Z})\)]] (PhD thesis defense) |
+|--------+------------------------------------+----------------------------------------------------------------------------------------------------------|
+
+*** Abstracts
+
+***** /A Constructive and Stable Cartan-Dieudonné Theorem for Binary Quadratic Forms/
+:PROPERTIES:
+:CUSTOM_ID: 2025-09-26
+:END:
+      [[https://zfan-math.com/][Ze Fan]], Wesleyan University
+
+The classical Cartan-Dieudonné theorem states that every isometry of a
+non-degenerate quadratic form is a product of reflections. We present a
+fully explicit and quantitative version of this theorem for binary forms
+over non-archimedean local fields of characteristic zero. For any
+isometry, we provide an explicit decomposition into a product of two
+reflections. A key result is the stability of this factorization: we
+establish quantitative control on how the reflection matrices behave
+under small perturbations of the underlying vectors. We will conclude
+with applications to studying the equivalence of binary quadratic forms
+over number fields. This is joint work with Professor Han Li.
+
+***** /Counting primitive integral solutions to generalized Fermat equations/
+:PROPERTIES:
+:CUSTOM_ID: 2025-11-07
+:END:
+      [[https://sarangop1728.github.io/][Santiago Arango-Piñeros]], UMass Amherst
+
+Let \(F\colon Ax^a + By^b + Cz^c = 0\) be a generalized Fermat equation
+with nonzero integer coefficients. A solution \((x,y,z) \in
+\mathbb{Z}^3\) is called primitive if \(\gcd(x,y,z) = 1\). We prove that
+when \(\chi = 1/a + 1/b + 1/c - 1 > 0\), the counting function
+\(N(F;h)\) of primitive integral solutions of height at most \(h\)
+satisfies
+\[ N(F;h) \sim k(F)\, h^{\chi} \]
+for some constant \(k(F) \geq 0\), as \(h\) goes to infinity. This
+result refines a theorem of Beukers, and the proof relies on the
+stack-theoretic perspective introduced by Poonen–Schaefer–Stoll in
+their study of \(x^2 + y^3 + z^7 = 0\).
+
+***** /Hypergeometric Decompositions of K3 Surface Pencils/
+:PROPERTIES:
+:CUSTOM_ID: 2025-11-14
+:END:
+      [[https://www.southernct.edu/directory/sturmanl1][Leah Sturman]], Southern Connecticut State University
+
+In this talk we will look at five pencils of projective quartic surfaces
+with the aim of giving explicit formulas for the point counts over
+finite fields of each. These point counts are written in terms of
+hypergeometric sums. Given time, we will discuss how to obtain a
+decomposition of the incomplete L-function of each pencil in terms of
+hypergeometric L-series and Dedekind zeta functions. This is joint work
+with Rachel Davis, Jessamyn Dukes, Thais Gomes Ribeiro, Eli Orvis,
+Adriana Salerno, and Ursula Whitcher.
+
+***** /Counting biquadratic number fields that admit quaternionic or dihedral extensions/
+:PROPERTIES:
+:CUSTOM_ID: 2025-12-12
+:END:
+      Louis Gaudet, UMass Amherst
+
+Many interesting problems in arithmetic statistics involve counting
+number fields (ordered by their discriminants, say) with certain
+properties. In joint work with Siman Wong (UMass Amherst), we establish
+asymptotic formulae for the number of biquadratic extensions of
+\(\mathbb{Q}\) that admit a degree-2 extension with Galois group \(G\),
+where \(G\) is either the quaternion group or the dihedral group (of
+order 8). We will discuss these results and how they are proved, and we
+will discuss their significance with regard to a theorem of Tate on
+lifts of projective Galois representations.
+
+***** /The distribution of 2-Selmer groups in quadratic twist families of elliptic curves/
+:PROPERTIES:
+:CUSTOM_ID: 2026-02-27
+:END:
+      [[https://sites.google.com/view/ariel-weiss/][Ariel Weiss]], Trinity College
+
+The Poonen–Rains and Bhargava–Kane–Lenstra–Poonen–Rains heuristics give
+striking predictions for the distribution of Selmer groups in the family
+of all elliptic curves over \(\mathbb{Q}\). In particular, they predict
+that the average size of the \(p\)-Selmer group is \(1+p\), a result
+proved for \(p = 2\), \(3\), and \(5\) by Bhargava and Shankar.
+
+However, these models do not accurately describe families of elliptic
+curves with isogenies, where the average \(p\)-Selmer size can even be
+infinite. In this talk, I will report on work in progress to determine
+the distribution of 2-Selmer groups in the family of quadratic twists of
+an elliptic curve with a 2-torsion point. I will present a theorem that
+shows that the distribution of the 2-Selmer groups coincides with a
+distribution arising from the kernels of random matrices. This work is
+joint with Harald Helfgott, Zev Klagsbrun, and Jennifer Park.
+
+***** /The group theory of elliptic curves in towers of finite fields/
+:PROPERTIES:
+:CUSTOM_ID: 2026-03-06
+:END:
+      [[https://faculty.bard.edu/cullinan/][John Cullinan]], Bard College
+
+If \(E\) and \(E'\) are elliptic curves defined over a finite field
+\(k\) such that \(E(k)\) and \(E'(k)\) have the same order, what is the
+likelihood that they define isomorphic groups? In this talk we will
+address this question from two points of view: fix \(E\), vary \(p\),
+and fix \(p\), vary \(E\). We will not assume more than a working
+knowledge of elliptic curves. This is recent and ongoing work with
+Nathan Kaplan of UC Irvine.
+
+***** /The Uniformization Theorem/
+:PROPERTIES:
+:CUSTOM_ID: 2026-04-24
+:END:
+      [[https://mathematics.colostate.edu/person/?id=AAF7E91E00F35E3D1E382B1E38985927&sq=t][Will Allen]], Wesleyan University (honors talk)
+
+The Uniformization Theorem establishes, up to appropriate notions of
+equivalence, a one-to-one correspondence between lattices in the complex
+plane and complex elliptic curves. In this talk, we give an overview of
+the correspondence, and then explore in detail one of the properties of
+this correspondence: that for any lattice \(\Lambda\) which is
+associated to an elliptic curve \(E_\Lambda\), there is a bijection
+\(\mathbb{C}/\Lambda \to E_\Lambda\) that gives an isomorphism of both
+Riemann surfaces and abelian groups.
+
+***** /On the Cuspidal Cohomology of Congruence Subgroups of \(\mathrm{SL}(3,\mathbb{Z})\)/
+:PROPERTIES:
+:CUSTOM_ID: 2026-05-01
+:END:
+      [[https://zporat.github.io/][Zachary Porat]], Wesleyan University (PhD thesis defense)
+
+In their 1984 work, Ash, Grayson, and Green compute the action of Hecke
+operators on the cohomology of congruence subgroups \(\Gamma_0(3,p) \leq
+\mathrm{SL}(3,\mathbb{Z})\) for small \(p\). A natural extension is to
+work with other congruence subgroups of \(\mathrm{SL}(3,\mathbb{Z})\).
+In the first part of the talk, we detail techniques for working with
+congruence subgroups that are Iwahori at \(p\), computing the action of
+Hecke operators on the corresponding cohomology. In the second part of
+the talk, we return to the \(\Gamma_0(3,p)\) setting, introducing a new
+technique which allows for computations directly on the cuspidal
+cohomology.

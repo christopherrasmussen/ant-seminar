@@ -1,0 +1,12 @@
+# Shared disclaimer for reconstructed pages.
+# Included at the top of each org/ant-sem-ay-YYYY.org page via
+#   #+INCLUDE: "../includes/past-disclaimer.org"
+# Lines starting with "# " (like these) are never exported.
+
+#+begin_note
+
+Please note that title, abstract and speaker information may be
+missing, incomplete, or out of date for talks presented prior to Fall 2026. If
+you have additions or corrections, they are very welcome, and may
+be sent to [[mailto:crasmussen@wesleyan.edu][the organizers]].
+#+end_note
