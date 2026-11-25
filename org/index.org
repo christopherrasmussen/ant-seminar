@@ -9,22 +9,24 @@ to discuss the possibility.
 
 *** Fall 2026 Schedule
 
-|--------+-------------------------------------+-----------------------------------------------------------|
-| Date   | Speaker                             | Title (Click for abstract)                                |
-|--------+-------------------------------------+-----------------------------------------------------------|
-| Sep 25 | --                                  | --                                                        |
-| Oct 2  |                                     |                                                           |
-| Oct 9  | [[https://haochenwumath.github.io][Haochen Wu]], Trinity College         | [[#2026-10-09][From Gauss composition to binary orthogonal modular forms]] |
-| Oct 16 | [[https://sites.google.com/view/suzanneohara][Suzanne O'Hara]], Wesleyan University | [[#2026-10-16][Heavenly elliptic curves over cubic fields]]                |
-| Oct 23 |                                     |                                                           |
-| Oct 30 |                                     |                                                           |
-| Nov 6  | [[https://sites.google.com/view/joe-macula][Joe Macula]], Wake Forest University  | [[#2026-11-06][Sesquilinear pairings and isogeny-based cryptography]]                                                          |
-| Nov 13 |                                     |                                                           |
-| Nov 20 |                                     |                                                           |
-| --     | *Thanksgiving Break*                |                                                           |
-| Dec 4  |                                     |                                                           |
-| Dec 11 |                                     |                                                           |
-|--------+-------------------------------------+-----------------------------------------------------------|
+# Format for Links: [ [url][text] ] but remove the extra space.
+
+|--------+----------------------------------------+-----------------------------------------------------------|
+| Date   | Speaker                                | Title (Click for abstract)                                |
+|--------+----------------------------------------+-----------------------------------------------------------|
+| Sep 25 | --                                     | --                                                        |
+| Oct 2  |                                        |                                                           |
+| Oct 9  | [[https://haochenwumath.github.io][Haochen Wu]], Trinity College            | [[#2026-10-09][From Gauss composition to binary orthogonal modular forms]] |
+| Oct 16 | [[https://sites.google.com/view/suzanneohara][Suzanne O'Hara]], Wesleyan University    | [[#2026-10-16][Heavenly elliptic curves over cubic fields]]                |
+| Oct 23 |                                        |                                                           |
+| Oct 30 |                                        |                                                           |
+| Nov 6  | [[https://sites.google.com/view/joe-macula][Joe Macula]], Wake Forest University     | [[#2026-11-06][Sesquilinear pairings and isogeny-based cryptography]]      |
+| Nov 13 |                                        |                                                           |
+| Nov 20 |                                        |                                                           |
+| --     | *Thanksgiving Break*                   |                                                           |
+| Dec 4  | [[https://dylan-costa.github.io][Dylan Costa]], University of Connecticut | [[#2026-12-04][Elliptic curve rank growth in multi-quadratic fields]]      |
+| Dec 11 |                                        |                                                           |
+|--------+----------------------------------------+-----------------------------------------------------------|
 
 
 *** Abstracts
@@ -85,3 +87,29 @@ sesquilinear pairings of Stange (2026), then give an overview of recent
 work in collaboration with Stange (2024) on further extending the attacks
 on class group action protocols. Along the way, we'll also discuss some
 of the relevant isogeny-based cryptography.
+
+***** /Elliptic curve rank growth in multi-quadratic fields/
+:PROPERTIES:
+:CUSTOM_ID: 2026-12-04
+:END:
+      [[https://dylan-costa.github.io][Dylan Costa]], University of Connecticut
+
+Let \(E\) be an elliptic curve over \(\mathbb{Q}\). The rank of \(E\) over
+a number field \(K\) is the maximal number of \(K\)-rational points on \(E\)
+that are linearly independent over \(\mathbb{Z}\). A natural question is how
+the rank grows when we enlarge the base field from \(\mathbb{Q}\) to a
+number field \(K\). In this talk, we study the case where \(K\) is a
+multi-quadratic extension of \(\mathbb{Q}\). We give an explicit construction
+of square-free integers \(d_{1},\ldots,d_{n}\) such that \(K = \mathbb{Q}(\sqrt{d_{1}},
+\ldots,\sqrt{d_{n}})\) has degree \(2^{n}\). Each quadratic twist \(E^{d_{k}}\)
+has a rational point of infinite order and a global root number that we choose
+in advance. As a result, the rank of \(E\) over \(K\) is at least the rank of \(E\)
+over \(\mathbb{Q}\) plus \(n\), and the torsion subgroup of \(E\) does not grow
+from \(\mathbb{Q}\) to \(K\). If we further assume the Parity Conjecture, a
+good choice of root numbers makes the rank increase even more. The increase
+is at least \(\max \{2n + 2^{n-1} - 1,\, 2^{n}-1 \} \) when the global root
+number is \(-1\), and at least \(\max \{2n,\,2^{n-1}+2n-2\}\) when it is \(+1\).
+Lastly, we apply these ideas to an elliptic curve over \(\mathbb{Q}\) of rank
+at least \(32\). We find an explicit quadratic field over which this curve
+has rank at least \(34\) and root number \(-1\), and so rank at least \(35\)
+under the Parity Conjecture. This is joint work with Álvaro Lozano-Robledo.
