@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Algebra/Number Theory Seminar, 2025–2026</title>
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-c:before { content: 'C'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'JavaScript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+<link rel="stylesheet" type="text/css" href="ant-seminar.css" />
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Algebra/Number Theory Seminar, 2025–2026</h1>
+<div class="note" id="org51a865b">
+<p>
+
+</p>
+
+<p>
+Please note that title, abstract and speaker information may be
+missing, incomplete, or out of date for talks presented prior to Fall 2026. If
+you have additions or corrections, they are very welcome, and may
+be sent to <a href="mailto:crasmussen@wesleyan.edu">the organizers</a>.
+</p>
+
+</div>
+<div id="outline-container-org543ae92" class="outline-2">
+<h2 id="org543ae92">Fall 2025</h2>
+<div class="outline-text-2" id="text-org543ae92">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Date</th>
+<th scope="col" class="org-left">Speaker</th>
+<th scope="col" class="org-left">Title</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Sep 26</td>
+<td class="org-left"><a href="https://zfan-math.com/">Ze Fan</a>, Wesleyan University</td>
+<td class="org-left"><a href="#2025-09-26">A Constructive and Stable Cartan-Dieudonné Theorem for Binary Quadratic Forms</a></td>
+</tr>
+
+<tr>
+<td class="org-left">Nov 7</td>
+<td class="org-left"><a href="https://sarangop1728.github.io/">Santiago Arango-Piñeros</a>, UMass Amherst</td>
+<td class="org-left"><a href="#2025-11-07">Counting primitive integral solutions to generalized Fermat equations</a></td>
+</tr>
+
+<tr>
+<td class="org-left">Nov 14</td>
+<td class="org-left"><a href="https://www.southernct.edu/directory/sturmanl1">Leah Sturman</a>, Southern Connecticut State University</td>
+<td class="org-left"><a href="#2025-11-14">Hypergeometric Decompositions of K3 Surface Pencils</a></td>
+</tr>
+
+<tr>
+<td class="org-left">Dec 12</td>
+<td class="org-left">Louis Gaudet, UMass Amherst</td>
+<td class="org-left"><a href="#2025-12-12">Counting biquadratic number fields that admit quaternionic or dihedral extensions</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-org5637d80" class="outline-2">
+<h2 id="org5637d80">Spring 2026</h2>
+<div class="outline-text-2" id="text-org5637d80">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Date</th>
+<th scope="col" class="org-left">Speaker</th>
+<th scope="col" class="org-left">Title</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="org-left">Feb 6</td>
+<td class="org-left"><a href="https://zporat.github.io/">Zachary Porat</a>, Wesleyan University</td>
+<td class="org-left">&nbsp;</td>
+</tr>
+
+<tr>
+<td class="org-left">Feb 27</td>
+<td class="org-left"><a href="https://sites.google.com/view/ariel-weiss/">Ariel Weiss</a>, Trinity College</td>
+<td class="org-left"><a href="#2026-02-27">The distribution of 2-Selmer groups in quadratic twist families of elliptic curves</a></td>
+</tr>
+
+<tr>
+<td class="org-left">Mar 6</td>
+<td class="org-left"><a href="https://faculty.bard.edu/cullinan/">John Cullinan</a>, Bard College</td>
+<td class="org-left"><a href="#2026-03-06">The group theory of elliptic curves in towers of finite fields</a></td>
+</tr>
+
+<tr>
+<td class="org-left">Apr 24</td>
+<td class="org-left"><a href="https://mathematics.colostate.edu/person/?id=AAF7E91E00F35E3D1E382B1E38985927&amp;sq=t">Will Allen</a>, Wesleyan University</td>
+<td class="org-left"><a href="#2026-04-24">The Uniformization Theorem</a> (honors talk)</td>
+</tr>
+
+<tr>
+<td class="org-left">May 1</td>
+<td class="org-left"><a href="https://zporat.github.io/">Zachary Porat</a>, Wesleyan University</td>
+<td class="org-left"><a href="#2026-05-01">On the Cuspidal Cohomology of Congruence Subgroups of \(\mathrm{SL}(3,\mathbb{Z})\)</a> (PhD thesis defense)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="outline-container-orge1c5b26" class="outline-2">
+<h2 id="orge1c5b26">Abstracts</h2>
+<div class="outline-text-2" id="text-orge1c5b26">
+</div>
+<div id="outline-container-2025-09-26" class="outline-4">
+<h4 id="2025-09-26"><i>A Constructive and Stable Cartan-Dieudonné Theorem for Binary Quadratic Forms</i></h4>
+<div class="outline-text-4" id="text-2025-09-26">
+<p>
+<a href="https://zfan-math.com/">Ze Fan</a>, Wesleyan University
+</p>
+
+<p>
+The classical Cartan-Dieudonné theorem states that every isometry of a
+non-degenerate quadratic form is a product of reflections. We present a
+fully explicit and quantitative version of this theorem for binary forms
+over non-archimedean local fields of characteristic zero. For any
+isometry, we provide an explicit decomposition into a product of two
+reflections. A key result is the stability of this factorization: we
+establish quantitative control on how the reflection matrices behave
+under small perturbations of the underlying vectors. We will conclude
+with applications to studying the equivalence of binary quadratic forms
+over number fields. This is joint work with Professor Han Li.
+</p>
+</div>
+</div>
+<div id="outline-container-2025-11-07" class="outline-4">
+<h4 id="2025-11-07"><i>Counting primitive integral solutions to generalized Fermat equations</i></h4>
+<div class="outline-text-4" id="text-2025-11-07">
+<p>
+<a href="https://sarangop1728.github.io/">Santiago Arango-Piñeros</a>, UMass Amherst
+</p>
+
+<p>
+Let \(F\colon Ax^a + By^b + Cz^c = 0\) be a generalized Fermat equation
+with nonzero integer coefficients. A solution \((x,y,z) \in
+\mathbb{Z}^3\) is called primitive if \(\gcd(x,y,z) = 1\). We prove that
+when \(\chi = 1/a + 1/b + 1/c - 1 > 0\), the counting function
+\(N(F;h)\) of primitive integral solutions of height at most \(h\)
+satisfies
+\[ N(F;h) \sim k(F)\, h^{\chi} \]
+for some constant \(k(F) \geq 0\), as \(h\) goes to infinity. This
+result refines a theorem of Beukers, and the proof relies on the
+stack-theoretic perspective introduced by Poonen–Schaefer–Stoll in
+their study of \(x^2 + y^3 + z^7 = 0\).
+</p>
+</div>
+</div>
+<div id="outline-container-2025-11-14" class="outline-4">
+<h4 id="2025-11-14"><i>Hypergeometric Decompositions of K3 Surface Pencils</i></h4>
+<div class="outline-text-4" id="text-2025-11-14">
+<p>
+<a href="https://www.southernct.edu/directory/sturmanl1">Leah Sturman</a>, Southern Connecticut State University
+</p>
+
+<p>
+In this talk we will look at five pencils of projective quartic surfaces
+with the aim of giving explicit formulas for the point counts over
+finite fields of each. These point counts are written in terms of
+hypergeometric sums. Given time, we will discuss how to obtain a
+decomposition of the incomplete L-function of each pencil in terms of
+hypergeometric L-series and Dedekind zeta functions. This is joint work
+with Rachel Davis, Jessamyn Dukes, Thais Gomes Ribeiro, Eli Orvis,
+Adriana Salerno, and Ursula Whitcher.
+</p>
+</div>
+</div>
+<div id="outline-container-2025-12-12" class="outline-4">
+<h4 id="2025-12-12"><i>Counting biquadratic number fields that admit quaternionic or dihedral extensions</i></h4>
+<div class="outline-text-4" id="text-2025-12-12">
+<p>
+Louis Gaudet, UMass Amherst
+</p>
+
+<p>
+Many interesting problems in arithmetic statistics involve counting
+number fields (ordered by their discriminants, say) with certain
+properties. In joint work with Siman Wong (UMass Amherst), we establish
+asymptotic formulae for the number of biquadratic extensions of
+\(\mathbb{Q}\) that admit a degree-2 extension with Galois group \(G\),
+where \(G\) is either the quaternion group or the dihedral group (of
+order 8). We will discuss these results and how they are proved, and we
+will discuss their significance with regard to a theorem of Tate on
+lifts of projective Galois representations.
+</p>
+</div>
+</div>
+<div id="outline-container-2026-02-27" class="outline-4">
+<h4 id="2026-02-27"><i>The distribution of 2-Selmer groups in quadratic twist families of elliptic curves</i></h4>
+<div class="outline-text-4" id="text-2026-02-27">
+<p>
+<a href="https://sites.google.com/view/ariel-weiss/">Ariel Weiss</a>, Trinity College
+</p>
+
+<p>
+The Poonen–Rains and Bhargava–Kane–Lenstra–Poonen–Rains heuristics give
+striking predictions for the distribution of Selmer groups in the family
+of all elliptic curves over \(\mathbb{Q}\). In particular, they predict
+that the average size of the \(p\)-Selmer group is \(1+p\), a result
+proved for \(p = 2\), \(3\), and \(5\) by Bhargava and Shankar.
+</p>
+
+<p>
+However, these models do not accurately describe families of elliptic
+curves with isogenies, where the average \(p\)-Selmer size can even be
+infinite. In this talk, I will report on work in progress to determine
+the distribution of 2-Selmer groups in the family of quadratic twists of
+an elliptic curve with a 2-torsion point. I will present a theorem that
+shows that the distribution of the 2-Selmer groups coincides with a
+distribution arising from the kernels of random matrices. This work is
+joint with Harald Helfgott, Zev Klagsbrun, and Jennifer Park.
+</p>
+</div>
+</div>
+<div id="outline-container-2026-03-06" class="outline-4">
+<h4 id="2026-03-06"><i>The group theory of elliptic curves in towers of finite fields</i></h4>
+<div class="outline-text-4" id="text-2026-03-06">
+<p>
+<a href="https://faculty.bard.edu/cullinan/">John Cullinan</a>, Bard College
+</p>
+
+<p>
+If \(E\) and \(E'\) are elliptic curves defined over a finite field
+\(k\) such that \(E(k)\) and \(E'(k)\) have the same order, what is the
+likelihood that they define isomorphic groups? In this talk we will
+address this question from two points of view: fix \(E\), vary \(p\),
+and fix \(p\), vary \(E\). We will not assume more than a working
+knowledge of elliptic curves. This is recent and ongoing work with
+Nathan Kaplan of UC Irvine.
+</p>
+</div>
+</div>
+<div id="outline-container-2026-04-24" class="outline-4">
+<h4 id="2026-04-24"><i>The Uniformization Theorem</i></h4>
+<div class="outline-text-4" id="text-2026-04-24">
+<p>
+<a href="https://mathematics.colostate.edu/person/?id=AAF7E91E00F35E3D1E382B1E38985927&amp;sq=t">Will Allen</a>, Wesleyan University (honors talk)
+</p>
+
+<p>
+The Uniformization Theorem establishes, up to appropriate notions of
+equivalence, a one-to-one correspondence between lattices in the complex
+plane and complex elliptic curves. In this talk, we give an overview of
+the correspondence, and then explore in detail one of the properties of
+this correspondence: that for any lattice \(\Lambda\) which is
+associated to an elliptic curve \(E_\Lambda\), there is a bijection
+\(\mathbb{C}/\Lambda \to E_\Lambda\) that gives an isomorphism of both
+Riemann surfaces and abelian groups.
+</p>
+</div>
+</div>
+<div id="outline-container-2026-05-01" class="outline-4">
+<h4 id="2026-05-01"><i>On the Cuspidal Cohomology of Congruence Subgroups of \(\mathrm{SL}(3,\mathbb{Z})\)</i></h4>
+<div class="outline-text-4" id="text-2026-05-01">
+<p>
+<a href="https://zporat.github.io/">Zachary Porat</a>, Wesleyan University (PhD thesis defense)
+</p>
+
+<p>
+In their 1984 work, Ash, Grayson, and Green compute the action of Hecke
+operators on the cohomology of congruence subgroups \(\Gamma_0(3,p) \leq
+\mathrm{SL}(3,\mathbb{Z})\) for small \(p\). A natural extension is to
+work with other congruence subgroups of \(\mathrm{SL}(3,\mathbb{Z})\).
+In the first part of the talk, we detail techniques for working with
+congruence subgroups that are Iwahori at \(p\), computing the action of
+Hecke operators on the corresponding cohomology. In the second part of
+the talk, we return to the \(\Gamma_0(3,p)\) setting, introducing a new
+technique which allows for computations directly on the cuspidal
+cohomology.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p>Last updated 2026-11-25 Wed 18:54</p>
+</div>
+</body>
+</html>
