@@ -16,7 +16,7 @@ body {
     background-color: var(--bg);
     color: var(--text);
     font-family: var(--font);
-    font-size: 1.25rem;
+    font-size: 1rem;
     line-height: 1.6;
     max-width: 65rem;    /* widest the text column gets */
     margin: 0 auto;      /* center the column */
@@ -66,4 +66,18 @@ th {
 
 tbody tr:nth-child(even) {
     background-color: var(--row-alt);
+}
+
+/* --- Schedule tables: same column widths on every table --- */
+table {
+    table-layout: fixed;    /* widths come from rules below, not the content */
+}
+
+th:first-child, td:first-child {
+    width: 5.5em;          /* date column */
+    white-space: nowrap;   /* never wrap a date */
+}
+
+th:nth-child(2), td:nth-child(2) {
+    width: 40%;            /* speark column; rest given to title */
 }
