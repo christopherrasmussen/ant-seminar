@@ -1,4 +1,5 @@
-#+TITLE: Algebra/Number Theory Seminar, 2025–2026
+#+TITLE: Wesleyan Algebra/Number Theory Seminar
+#+SUBTITLE: Academic Year 2025–2026
 
 #+INCLUDE: "../includes/disclaimer.org"
 
@@ -48,7 +49,7 @@ over number fields. This is joint work with Professor Han Li.
 :PROPERTIES:
 :CUSTOM_ID: 2025-11-07
 :END:
-      [[https://sarangop1728.github.io/][Santiago Arango-Piñeros]], UMass Amherst
+      [[https://sarangop1728.github.io/][Santiago Arango-Piñeros]], University of Massachusetts, Amherst
 
 Let \(F\colon Ax^a + By^b + Cz^c = 0\) be a generalized Fermat equation
 with nonzero integer coefficients. A solution \((x,y,z) \in
@@ -81,7 +82,7 @@ Adriana Salerno, and Ursula Whitcher.
 :PROPERTIES:
 :CUSTOM_ID: 2025-12-12
 :END:
-      Louis Gaudet, UMass Amherst
+      Louis Gaudet, University of Massachusetts, Amherst
 
 Many interesting problems in arithmetic statistics involve counting
 number fields (ordered by their discriminants, say) with certain

@@ -14,20 +14,12 @@ to discuss the possibility.
 |--------+----------------------------------------+-----------------------------------------------------------|
 | Date   | Speaker                                | Title (Click for abstract)                                |
 |--------+----------------------------------------+-----------------------------------------------------------|
-| Sep 25 | --                                     | --                                                        |
-| Oct 2  |                                        |                                                           |
 | Oct 9  | [[https://haochenwumath.github.io][Haochen Wu]], Trinity College            | [[#2026-10-09][From Gauss composition to binary orthogonal modular forms]] |
 | Oct 16 | [[https://sites.google.com/view/suzanneohara][Suzanne O'Hara]], Wesleyan University    | [[#2026-10-16][Heavenly elliptic curves over cubic fields]]                |
-| Oct 23 |                                        |                                                           |
-| Oct 30 |                                        |                                                           |
 | Nov 6  | [[https://sites.google.com/view/joe-macula][Joe Macula]], Wake Forest University     | [[#2026-11-06][Sesquilinear pairings and isogeny-based cryptography]]      |
-| Nov 13 |                                        |                                                           |
-| Nov 20 |                                        |                                                           |
-| --     | *Thanksgiving Break*                   |                                                           |
 | Dec 4  | [[https://dylan-costa.github.io][Dylan Costa]], University of Connecticut | [[#2026-12-04][Elliptic curve rank growth in multi-quadratic fields]]      |
 | Dec 11 |                                        |                                                           |
 |--------+----------------------------------------+-----------------------------------------------------------|
-
 
 *** Abstracts
 

@@ -79,5 +79,24 @@ th:first-child, td:first-child {
 }
 
 th:nth-child(2), td:nth-child(2) {
-    width: 40%;            /* speark column; rest given to title */
+    width: 40%;            /* speaker column; rest given to title */
+}
+
+/* --- Abstracts formatting --- */
+.outline-4 h4 {
+    margin-bottom: 0.25rem;    /* pull the speaker line closer to title */
+}
+.outline-text-4 > p:first-child {
+    margin-top: 0;             /* the speaker line */
+}
+.outline-4 + .outline-4 {
+    border-top: 1px solid var(--border);  /* rule between abstracts */
+    margin-top: 1.5rem;
+    padding-top: 0.5rem;
+}
+.to-top {
+    font-size: 0.8rem;
+    font-weight: normal;
+    margin-left: 0.5em;
+    white-space: nowrap;
 }
