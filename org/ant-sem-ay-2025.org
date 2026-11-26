@@ -4,14 +4,14 @@
 
 *** Fall 2025
 
-|--------+-----------------------------------------------------+-----------------------------------------------------------------------------------|
-| Date   | Speaker                                             | Title                                                                             |
-|--------+-----------------------------------------------------+-----------------------------------------------------------------------------------|
-| Sep 26 | [[https://zfan-math.com/][Ze Fan]], Wesleyan University                         | [[#2025-09-26][A constructive and stable Cartan-Dieudonné theorem for binary quadratic forms]]     |
-| Nov 7  | [[https://sarangop1728.github.io/][Santiago Arango-Piñeros]], UMass Amherst              | [[#2025-11-07][Counting primitive integral solutions to generalized Fermat equations]]             |
-| Nov 14 | [[https://www.southernct.edu/directory/sturmanl1][Leah Sturman]], Southern Connecticut State University | [[#2025-11-14][Hypergeometric decompositions of K3 surface pencils]]                               |
-| Dec 12 | Louis Gaudet, UMass Amherst                         | [[#2025-12-12][Counting biquadratic number fields that admit quaternionic or dihedral extensions]] |
-|--------+-----------------------------------------------------+-----------------------------------------------------------------------------------|
+|--------+---------------------------------------------------------------+-----------------------------------------------------------------------------------|
+| Date   | Speaker                                                       | Title                                                                             |
+|--------+---------------------------------------------------------------+-----------------------------------------------------------------------------------|
+| Sep 26 | [[https://zfan-math.com/][Ze Fan]], Wesleyan University                                   | [[#2025-09-26][A constructive and stable Cartan-Dieudonné theorem for binary quadratic forms]]     |
+| Nov 7  | [[https://sarangop1728.github.io/][Santiago Arango-Piñeros]], University of Massachusetts, Amherst | [[#2025-11-07][Counting primitive integral solutions to generalized Fermat equations]]             |
+| Nov 14 | [[https://www.southernct.edu/directory/sturmanl1][Leah Sturman]], Southern Connecticut State University           | [[#2025-11-14][Hypergeometric decompositions of K3 surface pencils]]                               |
+| Dec 12 | Louis Gaudet, University of Massachusetts, Amherst            | [[#2025-12-12][Counting biquadratic number fields that admit quaternionic or dihedral extensions]] |
+|--------+---------------------------------------------------------------+-----------------------------------------------------------------------------------|
 
 *** Spring 2026
 
@@ -21,7 +21,7 @@
 | Feb 6  | [[https://zporat.github.io/][Zachary Porat]], Wesleyan University |                                                                                                          |
 | Feb 27 | [[https://sites.google.com/view/ariel-weiss/][Ariel Weiss]], Trinity College       | [[#2026-02-27][The distribution of 2-Selmer groups in quadratic twist families of elliptic curves]]                       |
 | Mar 6  | [[https://faculty.bard.edu/cullinan/][John Cullinan]], Bard College        | [[#2026-03-06][The group theory of elliptic curves in towers of finite fields]]                                           |
-| Apr 24 | [[https://mathematics.colostate.edu/person/?id=AAF7E91E00F35E3D1E382B1E38985927&sq=t][Will Allen]], Wesleyan University    | [[#2026-04-24][The Uniformization Theorem]] (Honors presentation)                                                         |
+| Apr 24 | [[https://mathematics.colostate.edu/person/?id=AAF7E91E00F35E3D1E382B1E38985927&sq=t][Will Allen]], Wesleyan University    | [[#2026-04-24][The Uniformization Theorem]] (Undergraduate Honors presentation)                                           |
 | May 1  | [[https://zporat.github.io/][Zachary Porat]], Wesleyan University | [[#2026-05-01][On the Cuspidal Cohomology of Congruence Subgroups of \(\mathrm{SL}(3,\mathbb{Z})\)]] (PhD thesis defense) |
 |--------+------------------------------------+----------------------------------------------------------------------------------------------------------|
 
@@ -132,7 +132,7 @@ Nathan Kaplan of UC Irvine.
 :PROPERTIES:
 :CUSTOM_ID: 2026-04-24
 :END:
-      [[https://mathematics.colostate.edu/person/?id=AAF7E91E00F35E3D1E382B1E38985927&sq=t][Will Allen]], Wesleyan University (honors talk)
+      [[https://mathematics.colostate.edu/person/?id=AAF7E91E00F35E3D1E382B1E38985927&sq=t][Will Allen]], Wesleyan University
 
 The Uniformization Theorem establishes, up to appropriate notions of
 equivalence, a one-to-one correspondence between lattices in the complex
@@ -147,7 +147,7 @@ Riemann surfaces and abelian groups.
 :PROPERTIES:
 :CUSTOM_ID: 2026-05-01
 :END:
-      [[https://zporat.github.io/][Zachary Porat]], Wesleyan University (PhD thesis defense)
+      [[https://zporat.github.io/][Zachary Porat]], Wesleyan University
 
 In their 1984 work, Ash, Grayson, and Green compute the action of Hecke
 operators on the cohomology of congruence subgroups \(\Gamma_0(3,p) \leq
