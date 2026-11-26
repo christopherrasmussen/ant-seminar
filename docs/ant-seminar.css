@@ -38,6 +38,12 @@ h1 { font-size: 2.5rem; line-height: 1.2; }
 h2 { font-size: 1.75rem; line-height: 1.2; }
 h3 { font-size: 1.4rem; line-height: 1.2; }
 
+/* --- Subtitles --- */
+.subtitle {
+    font-size: 2rem;      /* between the title (2.5rem) and h2 (1.75rem) */
+    font-weight: normal;
+}
+
 /* ---- Links ---- */
 a, a:visited {
     color: var(--link);

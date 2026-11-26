@@ -1,0 +1,175 @@
+#+TITLE: Wesleyan Algebra/Number Theory Seminar
+#+SUBTITLE: Academic Year 2023–2024
+
+#+INCLUDE: "../includes/year-nav.org"
+#+INCLUDE: "../includes/disclaimer.org"
+
+*** Fall 2023
+
+|--------+---------------------------------------------+------------------------------------------------------------------------------------|
+| Date   | Speaker                                     | Title                                                                              |
+|--------+---------------------------------------------+------------------------------------------------------------------------------------|
+| Sep 15 | [[https://sites.google.com/view/kellyisham/][Kelly Isham]], Colgate University             | [[#2023-09-15][Subring growth in \(\mathbb{Z}^n\)]]                                                 |
+| Oct 6  | [[https://wkchan.faculty.wesleyan.edu/][Wai Kiu Chan]], Wesleyan University           | [[#2023-10-06][Can we recover an integral quadratic form by representing all its proper subforms?]] |
+| Oct 13 | [[https://juanitaduquer.github.io/][Juanita Duque-Rosero]], Boston University     | [[#2023-10-13][Triangular modular curves]]                                                          |
+| Oct 20 | [[https://berry.edu/academics/fs/fvaldes][Felipe Valdes Gonzalez]], Wesleyan University | [[#2023-10-20][Recoverable \(\mathbb{Z}\)-lattices of rank greater or equal than 2]]                |
+| Nov 3  | [[https://sites.google.com/site/heidigoodson][Heidi Goodson]], Brooklyn College, CUNY       | [[#2023-11-03][An exploration of Sato-Tate groups of abelian varieties]]                            |
+| Nov 17 | [[https://sites.google.com/view/reneebell][Renee Bell]], Lehman College, CUNY            | [[#2023-11-17][How do points on plane curves generate fields? Let me count the ways.]]              |
+|--------+---------------------------------------------+------------------------------------------------------------------------------------|
+
+*** Spring 2024
+
+|--------+--------------------------------------+----------------------------------------------------------------------------------|
+| Date   | Speaker                              | Title                                                                            |
+|--------+--------------------------------------+----------------------------------------------------------------------------------|
+| Mar 29 | [[https://dmzb.github.io/][David Zureick-Brown]], Amherst College | [[#2024-03-29][\(\ell\)-adic images of Galois for elliptic curves over \(\mathbb{Q}\)]]           |
+| Apr 12 | [[https://sites.temple.edu/lang/][Jaclyn Lang]], Temple University       | [[#2024-04-12][A modular construction of unramified \(p\)-extensions of \(\mathbb{Q}(N^{1/p})\)]] |
+| Apr 26 | [[https://tdupu.github.io/][Taylor Dupuy]], University of Vermont  |                                                                                  |
+|--------+--------------------------------------+----------------------------------------------------------------------------------|
+
+*** Abstracts
+
+***** /Subring growth in \(\mathbb{Z}^n\)/
+:PROPERTIES:
+:CUSTOM_ID: 2023-09-15
+:END:
+      [[https://sites.google.com/view/kellyisham/][Kelly Isham]], Colgate University
+
+We can define a zeta function of a group (or ring) to be the Dirichlet
+series associated to the sequence that counts the number of subgroups
+(or subrings) of a given index. The subgroup zeta function over
+\(\mathbb{Z}^n\) is well-understood, as is the asymptotic growth of
+subgroups in \(\mathbb{Z}^n\). The analogous questions for subrings in
+\(\mathbb{Z}^n\) remain open. In this talk, we discuss the progress
+toward understanding subrings. First, we give new lower bounds on the
+asymptotic growth of subrings in \(\mathbb{Z}^n\). Then we define a
+similar zeta function corresponding to subrings of corank at most \(k\)
+in \(\mathbb{Z}^n\). While most subgroups in \(\mathbb{Z}^n\) have small
+corank, we show the opposite is true for subrings. If there is time, we
+will make connections to orders in number fields. Part of this work is
+joint with Nathan Kaplan.
+
+***** /Can we recover an integral quadratic form by representing all its proper subforms?/
+:PROPERTIES:
+:CUSTOM_ID: 2023-10-06
+:END:
+      [[https://wkchan.faculty.wesleyan.edu/][Wai Kiu Chan]], Wesleyan University
+
+An integral quadratic form is said to be represented by an integral
+quadratic form \(f\) if it is obtained from \(f\) by a linear change of
+variables. Such a quadratic form is called a proper subform of \(f\) if
+the change of variables is not invertible. If \(g\) is another integral
+quadratic form which represents all proper subforms of \(f\), does \(g\)
+represent \(f\)? In this talk, I will discuss an answer to this
+question, highlighting the contrast between the indefinite and the
+definite cases. This is a joint work with Byeong-Kweon Oh at Seoul
+National University.
+
+***** /Triangular modular curves/
+:PROPERTIES:
+:CUSTOM_ID: 2023-10-13
+:END:
+      [[https://juanitaduquer.github.io/][Juanita Duque-Rosero]], Boston University
+
+Triangular modular curves are a generalization of modular curves and
+arise from quotients of the upper half-plane by congruence subgroups of
+hyperbolic triangle groups. These curves naturally parameterize
+hypergeometric abelian varieties, making them interesting arithmetic
+objects. In this talk we will present an algorithm to enumerate all such
+curves of any given genus. This is joint work with John Voight.
+
+***** /Recoverable \(\mathbb{Z}\)-lattices of rank greater or equal than 2/
+:PROPERTIES:
+:CUSTOM_ID: 2023-10-20
+:END:
+      [[https://berry.edu/academics/fs/fvaldes][Felipe Valdes Gonzalez]], Wesleyan University
+
+Let \(f\) be a positive definite quadratic form over the ring of
+integers. We say \(f\) is recoverable if, for any form \(g\) that
+represents all proper sub-forms of \(f\), \(g\) must also represent
+\(f\). It was proved this year by Chan-Oh that any indefinite quadratic
+form is recoverable, but all positive definite indecomposable quadratic
+forms are not recoverable. Little is known about positive definite
+decomposable forms. In this talk, I will present some examples of binary
+lattices which are and are not recoverable and additionally a few
+examples on higher ranks.
+
+***** /An exploration of Sato-Tate groups of abelian varieties/
+:PROPERTIES:
+:CUSTOM_ID: 2023-11-03
+:END:
+      [[https://sites.google.com/site/heidigoodson][Heidi Goodson]], Brooklyn College, CUNY
+
+The focus of this talk is on Sato-Tate groups of abelian varieties --
+compact groups predicted to determine the limiting distributions of
+local zeta functions. Complete classifications of Sato-Tate groups in
+dimensions 1, 2, and 3 have been given in recent years, but there are
+obstacles to providing classifications in higher dimension. In this talk
+I will give an overview of techniques we can use for particularly nice
+Jacobian varieties, and discuss the ways in which these techniques fall
+apart when there are degeneracies in the algebraic structure of the
+variety. We will explore the various forms of degeneracy in the Hodge
+ring, Mumford-Tate group, Hodge group, and Sato-Tate group for some
+examples, each illustrating different phenomena that can occur.
+
+***** /How do points on plane curves generate fields? Let me count the ways./
+:PROPERTIES:
+:CUSTOM_ID: 2023-11-17
+:END:
+      [[https://sites.google.com/view/reneebell][Renee Bell]], Lehman College, CUNY
+
+In their program on diophantine stability, Mazur and Rubin suggest
+studying a curve \(C\) over \(\mathbb{Q}\) by understanding the field
+extensions of \(\mathbb{Q}\) generated by a single point of \(C\); in
+particular, they ask to what extent the set of such field extensions
+determines the curve. A natural question in arithmetic statistics along
+these lines concerns the size of this set: for a smooth projective curve
+\(C\) how many field extensions of \(\mathbb{Q}\) — of given degree and
+bounded discriminant — arise from adjoining a point of \(C\)? Can we
+further count the number of such extensions with specified Galois group?
+Asymptotic lower bounds for these quantities have been found for
+elliptic curves by Lemke Oliver and Thorne, for hyperelliptic curves by
+Keyes, and for superelliptic curves by Beneish and Keyes. We discuss
+similar asymptotic lower bounds that hold for all smooth plane curves
+\(C\), using tools such as geometry of numbers, Hilbert irreducibility,
+Newton polygons, and linear optimization.
+
+***** /\(\ell\)-adic images of Galois for elliptic curves over \(\mathbb{Q}\)/
+:PROPERTIES:
+:CUSTOM_ID: 2024-03-29
+:END:
+      [[https://dmzb.github.io/][David Zureick-Brown]], Amherst College
+
+I will discuss recent joint work with Jeremy Rouse and Drew Sutherland
+on Mazur’s “Program B” — the classification of the possible “images of
+Galois” associated to an elliptic curve (equivalently, classification of
+all rational points on certain modular curves \(X_H\)). The main result
+is a provisional classification of the possible images of \(\ell\)-adic
+Galois representations associated to elliptic curves over \(\mathbb{Q}\)
+and is provably complete barring the existence of unexpected rational
+points on modular curves associated to the normalizers of non-split
+Cartan subgroups and two additional genus 9 modular curves of level 49.
+
+I will also discuss the framework and various applications (for example:
+a very fast algorithm to rigorously compute the \(\ell\)-adic image of
+Galois of an elliptic curve over \(\mathbb{Q}\)), and then highlight
+several new ideas from the joint work, including techniques for
+computing models of modular curves and novel arguments to determine
+their rational points, a computational approach that works directly with
+moduli and bypasses defining equations, and (with John Voight) a
+generalization of Kolyvagin’s theorem to the modular curves we study.
+
+***** /A modular construction of unramified \(p\)-extensions of \(\mathbb{Q}(N^{1/p})\)/
+:PROPERTIES:
+:CUSTOM_ID: 2024-04-12
+:END:
+      [[https://sites.temple.edu/lang/][Jaclyn Lang]], Temple University
+
+In his 1976 proof of the converse of Herbrand’s theorem, Ribet used
+Eisenstein-cuspidal congruences to produce unramified degree-\(p\)
+extensions of the \(p\)-th cyclotomic field when \(p\) is an odd prime.
+After reviewing Ribet’s strategy, we will discuss work with Preston Wake
+in which we apply similar techniques to produce unramified degree-\(p\)
+extensions of \(\mathbb{Q}(N^{1/p})\) when \(N\) is a prime that is
+congruent to \(-1 \bmod p\). This answers a question posed on Frank
+Calegari’s blog.

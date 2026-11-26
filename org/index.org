@@ -1,6 +1,9 @@
-#+TITLE: Wesleyan University Algebra/Number Theory Seminar
+#+TITLE: Algebra/Number Theory Seminar
+#+SUBTITLE: Wesleyan University Department of Mathematics and Computer Science
 
-Focused on the areas of Algebra and Number Theory, broadly defined,
+#+INCLUDE: "../includes/year-nav.org"
+
+Focused on the areas of algebra and number theory, broadly defined,
 this seminar hosts hour-long talks on recent developments. The seminar
 typically meets in-person on Fridays at 1:20 p.m. Individuals
 interested in speaking on recent research, especially in the

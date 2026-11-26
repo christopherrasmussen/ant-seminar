@@ -1,6 +1,7 @@
 #+TITLE: Wesleyan Algebra/Number Theory Seminar
 #+SUBTITLE: Academic Year 2025–2026
 
+#+INCLUDE: "../includes/year-nav.org"
 #+INCLUDE: "../includes/disclaimer.org"
 
 *** Fall 2025
@@ -51,17 +52,16 @@ over number fields. This is joint work with Professor Han Li.
 :END:
       [[https://sarangop1728.github.io/][Santiago Arango-Piñeros]], University of Massachusetts, Amherst
 
-Let \(F\colon Ax^a + By^b + Cz^c = 0\) be a generalized Fermat equation
-with nonzero integer coefficients. A solution \((x,y,z) \in
-\mathbb{Z}^3\) is called primitive if \(\gcd(x,y,z) = 1\). We prove that
-when \(\chi = 1/a + 1/b + 1/c - 1 > 0\), the counting function
+Let \(F\colon Ax^a + By^b + Cz^c = 0\) be a generalized Fermat
+equation with nonzero integer coefficients. A solution \((x,y,z) \in
+\mathbb{Z}^3\) is called primitive if \(\gcd(x,y,z) = 1\). We prove
+that when \(\chi = 1/a + 1/b + 1/c - 1 > 0\), the counting function
 \(N(F;h)\) of primitive integral solutions of height at most \(h\)
-satisfies
-\[ N(F;h) \sim k(F)\, h^{\chi} \]
-for some constant \(k(F) \geq 0\), as \(h\) goes to infinity. This
-result refines a theorem of Beukers, and the proof relies on the
-stack-theoretic perspective introduced by Poonen–Schaefer–Stoll in
-their study of \(x^2 + y^3 + z^7 = 0\).
+satisfies \(N(F;h) \sim k(F)\, h^{\chi}\) for some constant \(k(F)
+\geq 0\), as \(h\) goes to infinity. This result refines a theorem of
+Beukers, and the proof relies on the stack-theoretic perspective
+introduced by Poonen–Schaefer–Stoll in their study of \(x^2 + y^3 +
+z^7 = 0\).
 
 ***** /Hypergeometric decompositions of K3 surface pencils/
 :PROPERTIES:
