@@ -1,0 +1,22 @@
+#+TITLE: Wesleyan Algebra/Number Theory Seminar
+#+SUBTITLE: Academic Year 2022–2023
+
+#+INCLUDE: "../includes/year-nav.org"
+#+INCLUDE: "../includes/disclaimer.org"
+
+*** Fall 2022
+
+No talks recorded yet.
+
+*** Spring 2023
+
+|--------+-----------------------------------------------------+-------|
+| Date   | Speaker                                             | Title |
+|--------+-----------------------------------------------------+-------|
+| Feb 10 | Connor Cassady, University of Pennsylvania          |       |
+| Feb 24 | Lori Watson                                         |       |
+| Mar 31 | Álvaro Lozano-Robledo, University of Connecticut    |       |
+| Apr 14 | Jacob Tolman, Wesleyan University (PhD prelim talk) |       |
+|--------+-----------------------------------------------------+-------|
+
+*** Abstracts

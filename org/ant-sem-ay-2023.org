@@ -24,6 +24,7 @@
 |--------+--------------------------------------+----------------------------------------------------------------------------------|
 | Mar 29 | [[https://dmzb.github.io/][David Zureick-Brown]], Amherst College | [[#2024-03-29][\(\ell\)-adic images of Galois for elliptic curves over \(\mathbb{Q}\)]]           |
 | Apr 12 | [[https://sites.temple.edu/lang/][Jaclyn Lang]], Temple University       | [[#2024-04-12][A modular construction of unramified \(p\)-extensions of \(\mathbb{Q}(N^{1/p})\)]] |
+| Apr 19 | [[https://jeffyelton.weebly.com][Jeffrey Yelton]], Wesleyan University  | [[#2024-04-19][Clusters and non-archimedean uniformization of superelliptic curves]]              |
 | Apr 26 | [[https://tdupu.github.io/][Taylor Dupuy]], University of Vermont  |                                                                                  |
 |--------+--------------------------------------+----------------------------------------------------------------------------------|
 
@@ -173,3 +174,25 @@ in which we apply similar techniques to produce unramified degree-\(p\)
 extensions of \(\mathbb{Q}(N^{1/p})\) when \(N\) is a prime that is
 congruent to \(-1 \bmod p\). This answers a question posed on Frank
 Calegari’s blog.
+
+***** /Clusters and non-archimedean uniformization of superelliptic curves/
+:PROPERTIES:
+:CUSTOM_ID: 2024-04-19
+:END:
+      [[https://jeffyelton.weebly.com/][Jeffrey Yelton]], Wesleyan University
+ 
+Let \(K\) be a field with a discrete valuation; let \(S\) be an
+even-cardinality subset of \(K \cup \{\infty\}\); and choose a prime
+\(p\). Under suitable conditions, such a set may be used to determine a
+subgroup of automorphisms of \(\mathbb{P}^1_K\) whose action induces a
+quotient that can be algebraized as a superelliptic curve given by \(y^p
+= f(x)\), and such that the quotient map induces a bijection between
+\(S\) and the set \(B\) of branch points of the superelliptic curve.
+This raises two natural questions: (A) how may one test whether any
+given even-cardinality subset has the right properties such that it
+induces a superelliptic curve in this way; and (B) in the case that
+\(S\) does satisfy these properties, how does the /cluster data/ (the
+distances between the pairs of points in \(S\)) of \(S\) compare to that
+of \(B\)? I will provide answers to both of these questions by viewing
+them in terms of a metric graph associated to \(S\) which encodes its
+cluster data.
