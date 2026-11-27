@@ -6,14 +6,14 @@
 
 *** Fall 2024
 
-|--------+--------------------------------------------+--------------------------------------------------------------------|
-| Date   | Speaker                                    | Title                                                              |
-|--------+--------------------------------------------+--------------------------------------------------------------------|
-| Sep 6  | [[https://crasmussen.faculty.wesleyan.edu/][Christopher Rasmussen]], Wesleyan University | [[#2024-09-06][Heavenly elliptic curves and connections to complex multiplication]] |
-| Sep 20 | [[https://rlbenedetto.people.amherst.edu/][Robert Benedetto]], Amherst College          | [[#2024-09-20][Arboreal Galois groups with colliding critical points]]              |
-| Oct 18 | [[https://manamiroy.github.io/][Manami Roy]], Lafayette College              | [[#2024-10-18][Local data of elliptic curves under quadratic twist]]                |
-| Oct 25 | [[https://math.mit.edu/~eranasaf/][Eran Assaf]], MIT/Dartmouth                  |                                                                    |
-|--------+--------------------------------------------+--------------------------------------------------------------------|
+|--------+---------------------------------------------------+--------------------------------------------------------------------|
+| Date   | Speaker                                           | Title                                                              |
+|--------+---------------------------------------------------+--------------------------------------------------------------------|
+| Sep 6  | [[https://crasmussen.faculty.wesleyan.edu/][Christopher Rasmussen]], Wesleyan University        | [[#2024-09-06][Heavenly elliptic curves and connections to complex multiplication]] |
+| Sep 20 | [[https://rlbenedetto.people.amherst.edu/][Robert Benedetto]], Amherst College                 | [[#2024-09-20][Arboreal Galois groups with colliding critical points]]              |
+| Oct 18 | [[https://manamiroy.github.io/][Manami Roy]], Lafayette College                     | [[#2024-10-18][Local data of elliptic curves under quadratic twist]]                |
+| Oct 25 | [[https://math.mit.edu/~eranasaf/][Eran Assaf]], Massachusetts Institute of Technology |                                                                    |
+|--------+---------------------------------------------------+--------------------------------------------------------------------|
 
 *** Spring 2025
 
