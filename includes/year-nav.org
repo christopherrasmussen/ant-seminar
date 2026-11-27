@@ -1,1 +1,5 @@
-By Year: [[file:../org/index.org][Current]] | [[file:~/github/ant-seminar/org/ant-sem-ay-2025.org][2025--2026]] | [[file:~/github/ant-seminar/org/ant-sem-ay-2024.org][2024--2025]] | [[file:~/github/ant-seminar/org/ant-sem-ay-2023.org][2023--2024]] | [[file:~/github/ant-seminar/org/ant-sem-ay-2022.org][2022--2023]] 
+By Year: [[file:../org/index.org][Current]] | [[file:../org/ant-sem-ay-2025.org][2025--2026]] | [[file:../org/ant-sem-ay-2024.org][2024--2025]] | [[file:../org/ant-sem-ay-2023.org][2023--2024]] | [[file:../org/ant-sem-ay-2022.org][2022--2023]] 
+
+# Local Variables:
+# org-link-file-path-type: relative
+# End:
