@@ -6,22 +6,26 @@
 
 *** Fall 2022
 
-|--------+-----------------------------------+-----------------------------------------------------|
-| Date   | Speaker                           | Title                                               |
-|--------+-----------------------------------+-----------------------------------------------------|
-| Sep 16 | [[https://wkchan.faculty.wesleyan.edu/][Wai Kiu Chan]], Wesleyan University | [[#2022-09-16][On the exceptional sets of integral quadratic forms]] |
-|--------+-----------------------------------+-----------------------------------------------------|
+|--------+-------------------------------------+---------------------------------------------------------------------------|
+| Date   | Speaker                             | Title                                                                     |
+|--------+-------------------------------------+---------------------------------------------------------------------------|
+| Sep 16 | [[https://wkchan.faculty.wesleyan.edu/][Wai Kiu Chan]], Wesleyan University   | [[#2022-09-16][On the exceptional sets of integral quadratic forms]]                       |
+| Sep 23 | Jeffrey Yelton, Wesleyan University | [[#2022-09-23][Clusters, semistable models, and inertia actions for hyperelliptic curves]] |
+| Oct 7  | [[https://sites.google.com/view/krasensky/][Jakub Krásenský]], Charles University | [[#2022-10-07][Sums of integral squares in number fields]]                                 |
+| Nov 4  | [[https://www.baruch.cuny.edu/profiles/faculty/Andrew-Scott-Obus][Andrew Obus]], Baruch College, CUNY   | [[#2022-11-04][Fun with Mac Lane valuations]]                                              |
+|--------+-------------------------------------+---------------------------------------------------------------------------|
 
 *** Spring 2023
 
-|--------+-----------------------------------------------------+-------|
-| Date   | Speaker                                             | Title |
-|--------+-----------------------------------------------------+-------|
-| Feb 10 | Connor Cassady, University of Pennsylvania          |       |
-| Feb 24 | Lori Watson                                         |       |
-| Mar 31 | Álvaro Lozano-Robledo, University of Connecticut    |       |
-| Apr 14 | Jacob Tolman, Wesleyan University (PhD prelim talk) |       |
-|--------+-----------------------------------------------------+-------|
+|--------+-----------------------------------------------------+-----------------------------------------------------------------------------|
+| Date   | Speaker                                             | Title                                                                       |
+|--------+-----------------------------------------------------+-----------------------------------------------------------------------------|
+| Feb 10 | Connor Cassady, University of Pennsylvania          |                                                                             |
+| Feb 24 | Lori Watson                                         |                                                                             |
+| Mar 31 | [[https://www.alozano.clas.uconn.edu/][Álvaro Lozano-Robledo]], University of Connecticut    | [[#2023-03-31][The adelic image of a Galois representation attached to a CM elliptic curve]] |
+| Apr 14 | Jacob Tolman, Wesleyan University (PhD prelim talk) |                                                                             |
+| Apr 21 | [[http://www.business.uconn.edu/person/yaacov-kopeliovich/][Yaacov Kopeliovich]], University of Connecticut       | [[#2023-04-21][Hyperelliptic Mumford curves and \(p\)-adic \(\lambda\) functions]]           |
+|--------+-----------------------------------------------------+-----------------------------------------------------------------------------|
 
 *** Abstracts
 
@@ -40,3 +44,81 @@ I will describe a recent joint work with Byeong-Kweon Oh which shows
 that for any given positive integers \(m\) and \(n\), there is always an
 \(n\)-exceptional set of size \(m\) and there are only finitely many of
 them.
+
+***** /Clusters, semistable models, and inertia actions for hyperelliptic curves/
+:PROPERTIES:
+:CUSTOM_ID: 2022-09-23
+:END:
+      Jeffrey Yelton, Wesleyan University
+
+Given a hyperelliptic curve \(C : y^2 = f(x)\) over a global field
+\(K\), I will relate the “clustering” of its branch points with respect
+to a prime \(P\) of \(K\) to the construction of a semistable model of
+the curve at that prime. This in turn sheds light on actions of inertia
+subgroups of the absolute Galois group \(\mathrm{Gal}(K)\) which are
+associated to \(C\). All of this has a very nice description for primes
+\(P\) of residue characteristic not 2, and newer results suggest a
+somewhat analogous situation when the residue characteristic is 2.
+
+***** /Sums of integral squares in number fields/
+:PROPERTIES:
+:CUSTOM_ID: 2022-10-07
+:END:
+      [[https://sites.google.com/view/krasensky/][Jakub Krásenský]], Charles University
+
+For any ring \(R\), its Pythagoras number is the smallest number
+\(P(R)\) such that any sum of squares in \(R\) can be written as a sum
+of at most \(P(R)\) squares. Lagrange's celebrated four-square theorem
+can be stated as \(P(\mathbb{Z})=4\). We will look for analogous results
+in other number fields; the most interesting ones turn out to be totally
+real fields, i.e. such that the image of all their complex embeddings is
+in fact a subset of the real numbers.
+
+While the Pythagoras number of a number field is easy to determine, the
+Pythagoras number of its ring of integers is usually unknown. We will
+discuss the available results and the basic ideas behind them. In
+particular, to obtain upper bounds for Pythagoras numbers, we introduce
+the so-called \(g\)-invariants, which are similar to the Pythagoras
+number, but squares of numbers are replaced by squares of linear forms.
+The study of \(g\)-invariants, sometimes called the quadratic Waring's
+problem, is far from solved even in the case of rational integers;
+however, we will see some nontrivial results.
+
+***** /Fun with Mac Lane valuations/
+:PROPERTIES:
+:CUSTOM_ID: 2022-11-04
+:END:
+      [[https://www.baruch.cuny.edu/profiles/faculty/Andrew-Scott-Obus][Andrew Obus]], Baruch College, CUNY
+
+Mac Lane's technique of "inductive valuations" is over 85 years old, but
+has only recently been used to attack problems about arithmetic
+surfaces. The first half of the talk will be an explicit, hands-on
+introduction to the theory, requiring no background beyond the
+definition of a discrete valuation. We will then discuss how the theory
+helps us work with models of the projective line, and how the insights
+gained can be used to resolve certain types of singularities of
+arithmetic surfaces, as well as to prove conductor-discriminant
+inequalities for hyperelliptic curves.
+
+***** /The adelic image of a Galois representation attached to a CM elliptic curve/
+:PROPERTIES:
+:CUSTOM_ID: 2023-03-31
+:END:
+      [[https://www.alozano.clas.uconn.edu/][Álvaro Lozano-Robledo]], University of Connecticut
+
+In this talk we will discuss recent work on the classification of
+\(\ell\)-adic and adelic images of Galois representations attached to
+elliptic curves with complex multiplication, and applications. In
+particular, we will show how to construct the adelic image of
+representations attached to CM elliptic curves. This is joint work with
+Benjamin York.
+
+***** /Hyperelliptic Mumford curves and \(p\)-adic \(\lambda\) functions/
+:PROPERTIES:
+:CUSTOM_ID: 2023-04-21
+:END:
+      [[http://www.business.uconn.edu/person/yaacov-kopeliovich/][Yaacov Kopeliovich]], University of Connecticut
+
+In this talk we extend the classical uniformization of branch points of
+hyperelliptic points through theta functions to Mumford curves in the
+\(p\)-adic case.
