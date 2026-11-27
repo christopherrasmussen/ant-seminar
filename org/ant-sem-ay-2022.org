@@ -6,7 +6,11 @@
 
 *** Fall 2022
 
-No talks recorded yet.
+|--------+-----------------------------------+-----------------------------------------------------|
+| Date   | Speaker                           | Title                                               |
+|--------+-----------------------------------+-----------------------------------------------------|
+| Sep 16 | [[https://wkchan.faculty.wesleyan.edu/][Wai Kiu Chan]], Wesleyan University | [[#2022-09-16][On the exceptional sets of integral quadratic forms]] |
+|--------+-----------------------------------+-----------------------------------------------------|
 
 *** Spring 2023
 
@@ -20,3 +24,19 @@ No talks recorded yet.
 |--------+-----------------------------------------------------+-------|
 
 *** Abstracts
+
+***** /On the exceptional sets of integral quadratic forms/
+:PROPERTIES:
+:CUSTOM_ID: 2022-09-16
+:END:
+      [[https://wkchan.faculty.wesleyan.edu/][Wai Kiu Chan]], Wesleyan University
+
+A collection \(S\) of equivalence classes of positive definite integral
+quadratic forms in \(n\) variables is called an \(n\)-exceptional set if
+there exists a positive definite integral quadratic form which
+represents all equivalence classes of positive definite integral
+quadratic forms in \(n\) variables except those in \(S\). In this talk,
+I will describe a recent joint work with Byeong-Kweon Oh which shows
+that for any given positive integers \(m\) and \(n\), there is always an
+\(n\)-exceptional set of size \(m\) and there are only finitely many of
+them.
