@@ -10,7 +10,7 @@
 | Date   | Speaker                             | Title                                                                     |
 |--------+-------------------------------------+---------------------------------------------------------------------------|
 | Sep 16 | [[https://wkchan.faculty.wesleyan.edu/][Wai Kiu Chan]], Wesleyan University   | [[#2022-09-16][On the exceptional sets of integral quadratic forms]]                       |
-| Sep 23 | Jeffrey Yelton, Wesleyan University | [[#2022-09-23][Clusters, semistable models, and inertia actions for hyperelliptic curves]] |
+| Sep 23 | [[https://jeffyelton.weebly.com/][Jeffrey Yelton]], Wesleyan University | [[#2022-09-23][Clusters, semistable models, and inertia actions for hyperelliptic curves]] |
 | Oct 7  | [[https://sites.google.com/view/krasensky/][Jakub Krásenský]], Charles University | [[#2022-10-07][Sums of integral squares in number fields]]                                 |
 | Nov 4  | [[https://www.baruch.cuny.edu/profiles/faculty/Andrew-Scott-Obus][Andrew Obus]], Baruch College, CUNY   | [[#2022-11-04][Fun with Mac Lane valuations]]                                              |
 |--------+-------------------------------------+---------------------------------------------------------------------------|
@@ -49,7 +49,7 @@ them.
 :PROPERTIES:
 :CUSTOM_ID: 2022-09-23
 :END:
-      Jeffrey Yelton, Wesleyan University
+      [[https://jeffyelton.weebly.com/][Jeffrey Yelton]], Wesleyan University
 
 Given a hyperelliptic curve \(C : y^2 = f(x)\) over a global field
 \(K\), I will relate the “clustering” of its branch points with respect
